@@ -1,0 +1,12 @@
+body
+{
+    padding: 0;
+    margin: 0;
+    background-image: url();
+}
+.okno
+{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
